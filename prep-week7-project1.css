@@ -1,0 +1,20 @@
+#movieTitleAndYear {
+  color: #ffc0cb;
+  font-family: Arial;
+  font-size: 28px;
+}
+#movieTitleAndYearDiv {
+  border: 12px;
+  border-color: #cccccc;
+  border-style: dotted;
+}
+#header1 {
+  color: #ffc0cb;
+  font-family: Arial;
+  font-size: 32px;
+}
+#seeMore {
+  color: #ffc0cb;
+  font-family: Arial;
+  font-size: 24px;
+}
